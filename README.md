@@ -1,0 +1,3 @@
+
+Spheria is a full-stack web-based social media platform developed to simplify content creation, sharing, and interaction among users in a modern digital space. Built using HTML, CSS, JavaScript, PHP, MySQL, and Bootstrap, it enables seamless photo sharing, private messaging, and community engagement through intuitive interfaces.
+The system supports user authentication, real-time notifications, post and story uploads, likes, comments, and follower-based interactions. The platform emphasizes modularity, responsiveness, and security, making it ideal for academic presentations and real-world scalability.
